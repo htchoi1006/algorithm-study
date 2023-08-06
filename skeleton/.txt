@@ -1,0 +1,15 @@
+object [1]  models/avocado.ply
+position : -1 0 0
+scale : 1 1 1
+object [2]  models/bunny.ply
+position : 2 -1 -1
+scale : 1.5 1.5 1.5
+
+camera [1]
+position : -3 0 5
+front_dir : -0.118978 -0.561501 -0.818878
+up_dir : -0.0523376 0.827136 -0.559559
+camera [2]
+position : 2 1.5 3
+front_dir : 0.20739 0.518476 0.829561
+up_dir : -0.125749 0.855092 -0.502995
