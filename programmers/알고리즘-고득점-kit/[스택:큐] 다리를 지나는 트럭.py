@@ -9,7 +9,7 @@ def solution(bridge_length, weight, truck):
     w = 0  #현재 다리의 무게
     
     while True:
-        if not truck and sum(bridge) == 0:  #남은 트럭도 없고 다리에도 트럭이 없으면
+        if not truck and w == 0:  #남은 트럭도 없고 다리에도 트럭이 없으면
             break
 
         cnt += 1  #시간 초 세기
