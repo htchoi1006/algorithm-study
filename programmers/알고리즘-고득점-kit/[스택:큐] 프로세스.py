@@ -21,4 +21,4 @@ def solution(priorities, location):
             loc.rotate(-1)
         
     
-    return answer
+    return cnt
